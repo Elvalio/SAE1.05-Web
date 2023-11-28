@@ -1,0 +1,13 @@
+:root {
+    --vert-foncé : #2B514B;
+    --vert-clair : #A5F299;
+    --vert : #4EE08B ;
+    --bleu-marine : #00435D ;
+    --bleu-fonce : #3B8C7D ;
+    --blanc : #FFFFFF ; 
+    --gris : #C5C5C5 ;
+}
+
+body {
+    background-color: white;
+}
